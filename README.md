@@ -1,7 +1,7 @@
-Purpose
+Purpose:
 This repository was created to complete Tutorial 4 for Git collaboration practice.
 
- Steps Followed
+ Steps Followed:
 - Initialized local Git repo
 - Added collaborator
 - Created a new branch
